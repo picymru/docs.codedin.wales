@@ -2,7 +2,7 @@ FROM picymru/python3:latest
 MAINTAINER Matthew Gall <matthew@picymru.org.uk>
 
 WORKDIR /app
-COPY docs /app
+COPY . /app
 
 EXPOSE 8000
 

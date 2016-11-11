@@ -1,5 +1,5 @@
 NAME 	  := picymru/documentation
-VERSION	  := latest
+VERSION	  := 1.0.0
 
 .PHONY: build
 build:

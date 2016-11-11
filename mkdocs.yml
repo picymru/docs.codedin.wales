@@ -1,3 +1,8 @@
 site_name: PiCymru
 copyright: PiCymru 2015 - 2016
 theme: readthedocs
+pages:
+  - 'Home': 'index.md'
+  - 'Device Lab':
+      - 'About': 'devicelab/index.md'
+      - 'Directions': 'devicelab/directions.md'

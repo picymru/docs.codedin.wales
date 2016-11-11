@@ -1,6 +1,7 @@
 site_name: PiCymru
 copyright: PiCymru 2015 - 2016
 theme: readthedocs
+extra_css: ['extra.css']
 pages:
   - 'Home': 'index.md'
   - 'Device Lab':

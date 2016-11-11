@@ -7,3 +7,4 @@ pages:
   - 'Device Lab':
       - 'About': 'devicelab/index.md'
       - 'Directions': 'devicelab/directions.md'
+      - 'Fees': 'devicelab/fees.md'

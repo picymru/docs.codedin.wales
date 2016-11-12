@@ -8,3 +8,8 @@ pages:
       - 'About': 'devicelab/index.md'
       - 'Directions': 'devicelab/directions.md'
       - 'Fees': 'devicelab/fees.md'
+  - 'Online Lab':
+      - 'Setup': 'onlinelab/setup.md'
+      - 'Connecting': 'onlinelab/connecting.md'
+      - 'Using': 'onlinelab/using.md'
+      - 'Frequently Asked Questions': 'onlinelab/faq.md' 

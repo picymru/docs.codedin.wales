@@ -2,11 +2,17 @@ PiCymru is pleased to announce that we are now operating our own Minecraft serve
 
 ## Desktop Edition
 **Connection Details**
-![](https://matthewgall.objects-us-west-1.dream.io/screenshot/20-11-2016-00-51-49.png)  
+![](/images/minecraft-connectiondetails.png)  
 
 **Server Name:** PiCymru  
 **Server Address:** minecraft.picymru.org.uk  
 **Server Version:** Minecraft 1.11
 
 ## Pocket Edition
-Coming Soon!
+**Connection Details**
+![](/images/pocketmine-connectiondetails.png)  
+
+**Server Name:** PiCymru  
+**Server Address:** pocketmine.picymru.org.uk  
+**Port:** 19132  
+**Server Version:** PocketMine 0.15.0.0

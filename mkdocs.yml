@@ -7,3 +7,5 @@ pages:
   - 'Device Lab':
       - 'About': 'devicelab/index.md'
       - 'Directions': 'devicelab/directions.md'
+  - 'Services':
+      - 'Minecraft': 'services/minecraft.md'

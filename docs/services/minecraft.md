@@ -8,6 +8,9 @@ PiCymru is pleased to announce that we are now operating our own Minecraft serve
 **Server Address:** minecraft.picymru.org.uk  
 **Server Version:** Minecraft 1.11
 
+**Map**  
+Want to view a map of the world as it happens? Talk to your friends, but without a Minecraft client? Now you can! View our map by [clicking here](https://minecraft.picymru.org.uk)
+
 ## Pocket Edition
 **Connection Details**
 ![](/images/pocketmine-connectiondetails.png)  

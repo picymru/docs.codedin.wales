@@ -1,5 +1,5 @@
 NAME 	  := picymru/documentation
-VERSION	  := 2016.11.2
+VERSION	  := 2016.11.3
 
 .PHONY: release
 release:

@@ -1,5 +1,11 @@
 NAME 	  := picymru/documentation
-VERSION	  := 1.0.0
+VERSION	  := 2016.11.1
+
+.PHONY: release
+release:
+	utils/versioner.py release $(VERSION)
+	make build
+	make run
 
 .PHONY: build
 build:

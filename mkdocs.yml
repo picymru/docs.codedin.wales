@@ -4,6 +4,8 @@ theme: readthedocs
 extra_css: ['extra.css']
 pages:
   - 'Home': 'index.md'
+  - 'Code Hosting (codedin.wales)':
+      - 'About': 'codedin/index.md'
   - 'Device Lab':
       - 'About': 'devicelab/index.md'
       - 'Directions': 'devicelab/directions.md'

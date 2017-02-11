@@ -1,11 +1,15 @@
 site_name: PiCymru
-copyright: PiCymru 2015 - 2016
-theme: readthedocs
+copyright: PiCymru 2015 - 2017
+theme: cinder
 extra_css: ['extra.css']
 pages:
   - 'Home': 'index.md'
   - 'Device Lab':
-      - 'About': 'devicelab/index.md'
-      - 'Directions': 'devicelab/directions.md'
+      - 'Home': 'devicelab/index.md'
+      - 'Locations':
+        - 'Swansea': 'devicelab/swansea/index.md'
   - 'Services':
       - 'Minecraft': 'services/minecraft.md'
+      - 'codedin.wales':
+        - 'Terms of Service': 'codedin/terms.md'
+        - 'DMCA': 'codedin/dmca.md'

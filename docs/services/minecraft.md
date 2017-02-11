@@ -1,3 +1,5 @@
+# Minecraft
+
 PiCymru is pleased to announce that we are now operating our own Minecraft server! For all the information you need to connect, keep reading!
 
 ## Desktop Edition

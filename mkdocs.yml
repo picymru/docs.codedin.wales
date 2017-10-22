@@ -1,6 +1,5 @@
 site_name: PiCymru
-copyright: PiCymru 2015 - 2017
-theme: cinder
+copyright: '&copy; PiCymru 2017'
 extra_css: ['extra.css']
 pages:
   - 'Home': 'index.md'
@@ -13,3 +12,6 @@ pages:
       - 'codedin.wales':
         - 'Terms of Service': 'codedin/terms.md'
         - 'DMCA': 'codedin/dmca.md'
+      - 'hostedin.wales':
+        - 'Terms of Service': 'hostedin/terms.md'
+        - 'DMCA': 'hostedin/dmca.md'

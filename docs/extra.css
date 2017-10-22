@@ -1,7 +1,20 @@
-a:visited {
-	color: #2980B9
+body {
+	background: none;
 }
 
-img {
-	width: 95%;
+a {
+	color: #000;
 }
+
+.navbar {
+	background-color: #343838;
+	border-bottom: 8px #EBF2F2 solid;
+	background-image: none;
+}
+
+	.navbar-default .navbar-nav>.active>a,
+	.navbar-default .navbar-nav>.active>a:hover,
+	.navbar-default .navbar-nav>.active>a:focus {
+    	color: #fff;
+    	background-color: #272727;
+	}
